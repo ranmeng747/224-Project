@@ -1,6 +1,6 @@
 # 224-Project
 
-By Jonathan Ong, Xiaoyao Li, Mike Lee, Ran Meng
+By Jonathan Ong, Xianyao Li, Mike Lee, Ran Meng
 
 This project attempts to predict stock prices based on an ensembled method of:
     1. ARIMA
